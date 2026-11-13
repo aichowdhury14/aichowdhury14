@@ -57,4 +57,4 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-B87333?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-**How I build:** models handle language, code handles numbers · every project ships with a live demo or a test suite · local-first and free to run where possible.
+**How I build:** models handle language, code handles numbers · measure before and after every change · local-first and free to run where possible.
